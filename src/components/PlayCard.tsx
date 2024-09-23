@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, {  useState } from "react";
 
 const PlayCard: React.FC = () => {
   const [toggle, setToggle] = useState<boolean>(false);
